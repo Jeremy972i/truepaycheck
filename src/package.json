@@ -1,0 +1,19 @@
+{
+  "name": "formik-12x-building-input-primitives",
+  "version": "1.0.0",
+  "description": "This is an example of how you can use Formik to easily build and style your own reusable form components.",
+  "keywords": [
+    "formik",
+    "forms",
+    "react"
+  ],
+  "homepage": "https://codesandbox.io/s/qJR4ykJk",
+  "main": "index.js",
+  "dependencies": {
+    "classnames": "2.2.5",
+    "formik": "1.2.0",
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
+    "yup": "0.26.3"
+  }
+}
